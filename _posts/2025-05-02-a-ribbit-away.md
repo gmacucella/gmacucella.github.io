@@ -3,9 +3,6 @@ title: "A Ribbit Away 🐸"
 date: 2025-05-02 12:00:00 +0200
 categories: [Projects]
 tags: [unity, platformer, 2d, pixel art ]
-image:
-  path: /assets/lib/img/ARA_Map.png
-  alt: ""
 ---
 
 This was my first complex group project focused on game development, created as part of the Game Development university exam. It was a great opportunity to learn how to use Unity and how to work effectively as a small team.

@@ -3,9 +3,6 @@ title: "The Quercus Game 🌳"
 date: 2025-05-02 16:00:00 +0200
 categories: [Projects]
 tags: [godot, 2d, rpg, pixel art]
-image:
-  path: assets/lib/img/select.png
-  alt: ""
 ---
 
 The Quercus Game is an educational role-playing game developed as part of my bachelor’s thesis in Computer Science, in collaboration with the municipality of Gravina in Puglia. The game was designed to raise awareness about the protection of Bosco Difesa Grande, one of the most significant natural areas in the region, by offering an engaging experience that blends entertainment with environmental education.
