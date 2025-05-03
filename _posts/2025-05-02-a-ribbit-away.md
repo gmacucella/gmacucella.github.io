@@ -5,7 +5,7 @@ categories: [Projects]
 tags: [unity, platformer, 2d, pixel art ]
 image:
   path: /assets/media/ARA_Map.png
-  alt: ""
+  alt: "World map from the Demo"
 ---
 
 
@@ -21,7 +21,8 @@ We had the opportunity to present a playable demo at local game events, where we
 - *GameFest*, Cellamare (Bari), Italy: 2023 & 2024 editions
 - *LevanteFor*, Bari, Italy: 2024 edition
 
-> 🚀 **Play the demo now on Itch.io!**
+> 🚀 **Download the demo now on Itch.io!**
+> Please note: dialogues are currently available only in Italian, but an English translation is in the works!
 > [👉 A Ribbit Away – itch.io](https://three-happy-frogs.itch.io/a-ribbit-away)
 {: .prompt-tip }
 
