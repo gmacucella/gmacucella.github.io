@@ -10,8 +10,8 @@ I thrive in collaborative environments and believe that working together with ot
 
 Feel free to reach out if you’d like to chat about game development, share ideas, or just connect!
 
-- **Email**: martina.acucella28@gmail.com
-- **Telegram**: Mars28
+- **Email**: mars28dev@gmail.com
+- **Telegram**: Mars2816
 
 ## Education
 
